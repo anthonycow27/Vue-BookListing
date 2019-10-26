@@ -12,8 +12,8 @@ export default {
   props: ["books"],
   data() {
     return {
-      bookTitle: "",
-      bookAuthur: ""
+      bookTitle: '',
+      bookAuthur: '',
     };
   },
   methods: {
